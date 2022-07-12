@@ -8,3 +8,18 @@ You could choose and save the paths you prefer of a museum, leave reviews on the
 The app will guide you on the path without ever letting you get lost, so that you can lose yourself in the beauty that surrounds you and learn as much as possible.
 
 Enjoy!
+
+## Import new Museums/Museum's Paths
+- From cloud (Firebase)
+- From the local device storage
+
+## Minigames
+- Single/Multiple choice Quiz
+- Spot the differences
+
+## IoT
+- QR codes
+- Bluetooth Low Energy
+
+## Documentation (Google Drive)
+[Documentation - ITA](https://drive.google.com/drive/folders/1L7N-NAKV50RM5_amG0BLHOVqnxM-iXtq?usp=sharing)
